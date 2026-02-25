@@ -112,7 +112,7 @@ This folder contains the final deployed application, an interactive dashboard th
 5.  **Run the Application:**
     Launch the Streamlit server with the following command.
     ```bash
-    streamlit run app.py
+    python -m streamlit run app.py
     ```
 
 The application should now be running and accessible in your local web browser.
