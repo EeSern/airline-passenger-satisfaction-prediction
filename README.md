@@ -82,8 +82,8 @@ This folder contains the final deployed application, an interactive dashboard th
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/EeSern/airline-satisfaction-prediction-dashboard.git
-    cd airline-satisfaction-prediction-dashboard
+    git clone https://github.com/EeSern/airline-satisfaction-prediction.git
+    cd airline-satisfaction-prediction
     ```
 
 2.  **Navigate to the Application Directory:**
